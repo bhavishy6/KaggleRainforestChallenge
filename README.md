@@ -1,4 +1,4 @@
-# Rainforest Project
+# RainforestChallenge
 
 ## **Dataset**
 https://www.kaggle.com/c/rfcx-species-audio-detection/data
@@ -17,7 +17,7 @@ Dataset was downloaded and extracted to a directory named 'data' at the root of 
 
 Windows is having an issue importing torch with numpy 1.19.4, so uninstall numpy and install v1.19.3.
 
-    pip uinstall numpy
+    pip uninstall numpy
     pip install numpy==1.19.3
 
 ### **SoundFile (audio i/o backend)**
