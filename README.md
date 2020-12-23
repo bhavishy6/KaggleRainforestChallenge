@@ -28,10 +28,24 @@ Windows is having an issue importing torch with numpy 1.19.4, so uninstall numpy
 
 ### **pandas**
     pip install pandas
-    
+
 ### **tqdm**
     pip install tqdm
-    
+
 ### **librosa**
     pip install librosa
-    
+
+### **tensorflow**
+    pip install tensorflow-gpu
+    pip install keras
+    pip install tensorflow_addons
+
+### **scikit learn**
+    pip install scikit-learn
+    pip install scikit-multilearn
+
+### **cupy** (CUDA compatible implementation of numpy)
+    pip install cupy-cuda110
+
+### **glob2**
+    pip install glob2
